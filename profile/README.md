@@ -434,7 +434,7 @@ C:.
 
 # 🔜향후 개선 계획
 
-### #1 코드 리팩토링 - 소켓통신 수업 이후 Redis 대신 WebSocket, MQTT 활용
+### #1 코드 리팩토링 - Redis 대신 TCP/IP Socket 통신, MQTT 활용
 
 ### #2 CI/CD 파이프 라인 구축 - Docker, Kubernetis, Github Action, Jenkins, AWS EC2/S3/RDS 활용
 
