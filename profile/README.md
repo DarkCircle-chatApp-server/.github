@@ -1,4 +1,4 @@
-#  :speech_balloon: Chat Program made by DARK CIRCLE
+#  :speech_balloon: Chat Overflow
 <!--![제목을-입력해주세요_-001](https://github.com/user-attachments/assets/088cec18-9a27-4358-a075-70851aba208a)-->
 
 ![제목을-입력해주세요_-002 (1)](https://github.com/user-attachments/assets/41019166-8a3f-4097-960f-26393208ed2c)
@@ -13,7 +13,7 @@
 - 줌 채팅의 휘발성
 - 다소 불편한 인스타그램 pc버전 UI/UX
 
-### Dark Circle 채팅앱의 필요성
+### Chat Overflow의 필요성
 
 - 기존 채팅앱과 분리된 독자적 서비스
 - 사용자 편의성을 고려한 기능
